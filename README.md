@@ -28,4 +28,5 @@ An overview of
 
 List of team member names and email IDs
 https://drive.google.com/file/d/1SK0nA83h5KdqluijSRpcYnwTz4XC7qM1/view?usp=sharing-vedio for a short breif of our solution
-https://drive.google.com/file/d/1X_ZDl4q1y-6NIyLIjUAsAVEgHbE7TM8z/view?usp=sharing-vedio showing the interface of our app
+https://drive.google.com/file/d/1OH4_KVWDByJ7llS-eDhNmLPJ6zRpaXur/view?usp=drivesdk
+-vedio showing the interface of our app
